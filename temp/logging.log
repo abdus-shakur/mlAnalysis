@@ -1,0 +1,4 @@
+2024-03-31 01:18:06,496 - __main__ - ERROR - method1 - Error : {'second': 'value'} , {'first': 'value'}
+2024-03-31 01:18:06,497 - __main__ - INFO - method1 - info
+2024-03-31 01:18:06,497 - __main__ - WARNING - method1 - Warn
+2024-03-31 01:18:06,497 - __main__ - DEBUG - method1 - Debug
